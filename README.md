@@ -1,80 +1,22 @@
-## Hello World 🌐 
+<h2> Hi, I'm Zero! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Software Enginner  
+<p><em> Cybersecurity in Progress
+</em></p>
 
-<!--
-**Zer0Umbra/Zer0Umbra** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+[![GitHub Zer0Umbra](https://img.shields.io/github/followers/Zer0?label=follow&style=social)](https://github.com/Zer0Umbra)
 
-# 🌑 Zer0Umbra
 
-```txt
-> "No vine a seguir caminos. Vine a construir el mío."
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const zer0Umbra = {
+    pronouns: "he" | "him",
+    mindset: "discipline > motivation",
+    code: ["Java", "Python", "JavaScript", "HTML", "CSS"],
+    tools: ["Git", "GitHub", "VS Code", "Linux"],
+    interests: ["Cybersecurity", "AI", "Backend", "Systems"],
+    currentFocus: "building projects and improving every day",
+    future: "creating something impossible to ignore",
+    status: "always learning..."
+}
 ```
-
-## About Me
-
--  Joven desarrollador apasionado por la tecnología y los sistemas
--  Aprendiendo constantemente sobre programación, hardware, software y ciberseguridad
--  Construyendo mi futuro desde temprano con proyectos y conocimiento
--  Enfocado en crecer, mejorar y crear cosas grandes antes de los 25
--  Me gustan las interfaces limpias, el rendimiento y la estética minimalista
--  Interesado en el mundo del desarrollo, la automatización y la inteligencia artificial
--  Creo más en disciplina y evolución que en suerte
-
----
-
-## Currently Working On
-
--  Mejorando mis habilidades como desarrollador
--  Aprendiendo backend, IA y sistemas
--  Creando proyectos personales
--  Construyendo mi setup y mi entorno de trabajo ideal
-
----
-
-## Tech Stack
-
-### Languages
-- `Java`
-- `Python`
-- `JavaScript`
-- `HTML`
-- `CSS`
-
-### Tools & Environment
-- `Git`
-- `GitHub`
-- `VS Code`
-- `Linux`
-- `Windows`
-
----
-
-## Mindset
-
-```txt
-Knowledge > Ego
-Discipline > Motivation
-Consistency > Talent
-```
-
----
-
-## Future Goals
-
-1. Crear proyectos que impacten
-2. Dominar desarrollo full-stack
-3. Aprender ciberseguridad avanzada
-4. Construir algo grande desde cero
-5. Convertirme en alguien imposible de ignorar
-
----
-
-## Contact
-
-- GitHub: **@Zer0Umbra**
-- Discord: **jersa.444**
--  Always evolving...
-
----
-
-# 🖤 Welcome to my digital shadow.
