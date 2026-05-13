@@ -24,10 +24,10 @@
 
 ## Currently Working On
 
-- ⚙️ Mejorando mis habilidades como desarrollador
-- 🌱 Aprendiendo backend, IA y sistemas
-- 🖥️ Creando proyectos personales
-- 🚀 Construyendo mi setup y mi entorno de trabajo ideal
+-  Mejorando mis habilidades como desarrollador
+-  Aprendiendo backend, IA y sistemas
+-  Creando proyectos personales
+-  Construyendo mi setup y mi entorno de trabajo ideal
 
 ---
 
@@ -69,9 +69,10 @@ Consistency > Talent
 
 ---
 
-## 📫 Contact
+## Contact
 
 - GitHub: **@Zer0Umbra**
+- Discord: **jersa.444**
 -  Always evolving...
 
 ---
