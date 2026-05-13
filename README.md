@@ -1,4 +1,4 @@
-<h2> Hi, I'm Zero! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Zero! <img src="./Prgm.gif" width="140"> </h2>
 <p><em>Software Enginner  
 <p><em> Cybersecurity in Progress
 </em></p>
@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const zer0Umbra = {
+const Zer0 = {
     pronouns: "he" | "him",
     mindset: "discipline > motivation",
     code: ["Java", "Python", "JavaScript", "HTML", "CSS"],
