@@ -10,20 +10,19 @@
 > "No vine a seguir caminos. Vine a construir el mío."
 ```
 
-## ⚔️ About Me
+## About Me
 
-- 💻 Joven desarrollador apasionado por la tecnología y los sistemas
-- 🧠 Aprendiendo constantemente sobre programación, hardware, software y ciberseguridad
-- 🚀 Construyendo mi futuro desde temprano con proyectos y conocimiento
-- 🎯 Enfocado en crecer, mejorar y crear cosas grandes antes de los 25
-- ⚡ Me gustan las interfaces limpias, el rendimiento y la estética minimalista
-- 🌌 Interesado en el mundo del desarrollo, la automatización y la inteligencia artificial
-- 🎮 Gamer, curioso y obsesionado con aprender algo nuevo cada día
-- 🔥 Creo más en disciplina y evolución que en suerte
+-  Joven desarrollador apasionado por la tecnología y los sistemas
+-  Aprendiendo constantemente sobre programación, hardware, software y ciberseguridad
+-  Construyendo mi futuro desde temprano con proyectos y conocimiento
+-  Enfocado en crecer, mejorar y crear cosas grandes antes de los 25
+-  Me gustan las interfaces limpias, el rendimiento y la estética minimalista
+-  Interesado en el mundo del desarrollo, la automatización y la inteligencia artificial
+-  Creo más en disciplina y evolución que en suerte
 
 ---
 
-## 🛠️ Currently Working On
+## Currently Working On
 
 - ⚙️ Mejorando mis habilidades como desarrollador
 - 🌱 Aprendiendo backend, IA y sistemas
@@ -32,16 +31,16 @@
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 - `Java`
 - `Python`
 - `JavaScript`
 - `HTML`
 - `CSS`
 
-### ⚙️ Tools & Environment
+### Tools & Environment
 - `Git`
 - `GitHub`
 - `VS Code`
@@ -50,7 +49,7 @@
 
 ---
 
-## 📊 Mindset
+## Mindset
 
 ```txt
 Knowledge > Ego
@@ -60,7 +59,7 @@ Consistency > Talent
 
 ---
 
-## 🚀 Future Goals
+## Future Goals
 
 1. Crear proyectos que impacten
 2. Dominar desarrollo full-stack
@@ -72,8 +71,8 @@ Consistency > Talent
 
 ## 📫 Contact
 
-- 🌐 GitHub: **@Zer0Umbra**
-- ⚡ Always evolving...
+- GitHub: **@Zer0Umbra**
+-  Always evolving...
 
 ---
 
