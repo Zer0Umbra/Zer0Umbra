@@ -1,7 +1,6 @@
-<h2> Hi, I'm Zero! <h2> 
-
-    <p><em>Software Enginner  
-    <p><em> Cybersecurity in Progress
+<h2> Hi, I'm Zer0! </h2>
+<p><em>Software Enginner 
+</br>CyberSegurity Progress! 
 </em></p>
 
 [![GitHub Zer0Umbra](https://img.shields.io/github/followers/Zer0?label=follow&style=social)](https://github.com/Zer0Umbra)
