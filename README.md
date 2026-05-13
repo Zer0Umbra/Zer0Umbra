@@ -1,4 +1,4 @@
-<h2> Hi, I'm Zero! <img src="./Prgm.gif" width="140"> </h2>
+<h2> Hi, I'm Zero!  </h2>
 <p><em>Software Enginner  
 <p><em> Cybersecurity in Progress
 </em></p>
